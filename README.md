@@ -7,29 +7,29 @@ Subfolders:
 
 * Inventory and Ordering System: Bookwyrm_IO
 
-** Business Rules
+  * Business Rules
 
-** Entity Relationship Diagram (ERD)
+  * Entity Relationship Diagram (ERD)
 
-** DDL Script
+  * DDL Script
 
-** DML Script
+  * DML Script
 
 * Forecasting Systems: Bookwrym_F
 
-** Business Rules
+  * Business Rules
 
-** Entity Relationship Diagram (ERD)
+  * Entity Relationship Diagram (ERD)
 
-** DDL Script
+  * DDL Script
 
-** DML Script
+  * DML Script
 
 * Recommedation System: Bookwrym_R
-** Business Rules
+  * Business Rules
 
-** Entity Relationship Diagram (ERD)
+  * Entity Relationship Diagram (ERD)
 
-** DDL Script
+  * DDL Script
 
-** DML Script
+  * DML Script
