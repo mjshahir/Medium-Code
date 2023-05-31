@@ -5,7 +5,7 @@ Database Article Folder Name: Bookwyrm
 
 Subfolders:
 
-*Inventory and Ordering System: Bookwyrm_IO
+* Inventory and Ordering System: Bookwyrm_IO
 
 ** Business Rules
 
@@ -15,7 +15,7 @@ Subfolders:
 
 ** DML Script
 
-*Forecasting Systems: Bookwrym_F
+* Forecasting Systems: Bookwrym_F
 
 ** Business Rules
 
@@ -25,7 +25,7 @@ Subfolders:
 
 ** DML Script
 
-*Recommedation System: Bookwrym_R
+* Recommedation System: Bookwrym_R
 ** Business Rules
 
 ** Entity Relationship Diagram (ERD)
